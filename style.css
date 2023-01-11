@@ -1,0 +1,26 @@
+body {
+	background-color: #white;
+	font-family: 'Manrope', sans-serif;
+	font-size: 1em;
+}
+
+h1 {
+	color: #DC6D0F;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 3.5em;
+}
+
+p {
+	color: #black;
+	font-size: 1.3em;
+}
+
+li {
+	color: #black;
+	font-size: 1.3em;
+}
+
+a {
+	color: #black;
+	font-size: 1.3em;
+}
